@@ -2,12 +2,13 @@
 
 :root{
     --primary-color: #4F46E5;
+    --shadow-color: #DBEAFE
 }
 
 body{
        font-family: 'PT Mono', monospace;
-       background-color:#DBEAFE;
-       margin: 5px
+       /* background-color:#DBEAFE */
+       margin: 0px
 }
 
 hr{
@@ -110,7 +111,7 @@ hr{
 /* sections */
 
 .section{
-    padding: 2rem
+    padding: 2rem ;
 }
 
 .section h1{
@@ -118,7 +119,8 @@ hr{
 }
 
 .ow{
-    background-color: thistle;
+    background-color: var(--shadow-color);
+
 }
 
 /* footer */
