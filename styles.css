@@ -131,6 +131,10 @@ hr{
     text-align: center;
     color: white;
     border-top-left-radius: 1rem;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%
 }
 
 .footer .footer-header{
