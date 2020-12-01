@@ -146,6 +146,13 @@ hr{
     padding-inline-start: 0rem;
 }
 
+.footer-bottom{
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%
+}
+
 .blog{
     font-weight: bold;
     padding: 2rem
