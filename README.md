@@ -1,0 +1,4 @@
+- I have made my portfolio using HTML and CSS.
+- First, I made component library to use it in my project.
+- All the styles used in this project are included in styles.css file
+- For any clarification, please let me know.
